@@ -1,5 +1,8 @@
 
-#Data Visualization resport 1
+##########################################################################
+# Data Visualization resport 
+# by Ghicheon Lee
+##########################################################################
 
 import matplotlib.pyplot as plt
 import numpy as np
