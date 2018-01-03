@@ -1,5 +1,5 @@
 ##########################################################################
-# Data Visualization report 
+# simple Data Visualization 
 ##########################################################################
 
 import matplotlib.pyplot as plt
